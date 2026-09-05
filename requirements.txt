@@ -1,0 +1,12 @@
+# HistoryCal uses only the Python standard library:
+#   tkinter, json, os, threading, queue, urllib, hashlib, colorsys, uuid,
+#   dataclasses, time
+#
+# There is nothing to install here - this file exists mainly as a
+# convention/signal for anyone browsing the repo. If you're on Linux and
+# tkinter isn't already available, install it via your system package
+# manager, e.g.:
+#   sudo apt install python3-tk        (Debian/Ubuntu)
+#   sudo dnf install python3-tkinter   (Fedora)
+#
+# Python 3.9+ is required.
